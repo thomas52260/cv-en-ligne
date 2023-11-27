@@ -1,0 +1,15 @@
+.name { display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.contact { display: flex;
+flex-direction: row;
+justify-content: space-around;}
+
+
+.perso { display: flex;
+flex-direction: column 50px;}
+
+.pro { display:flexbox;
+flex-direction: column;}
