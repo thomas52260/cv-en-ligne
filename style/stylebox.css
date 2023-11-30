@@ -29,3 +29,13 @@ flex-grow: 2;}
 
 .info {display: flex;}
 
+.lien {display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+width: 1160px;
+flex-grow: 3;}
+
+h2 { margin-right: 50px;}
+
+body {display: inline-flex;
+width: 1160px;}
